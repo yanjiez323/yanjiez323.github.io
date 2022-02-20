@@ -2,14 +2,18 @@
     background-image: linear-gradient(to right, turquoise , pink);
 
   }
-  h1{
+   h1{
     font-family: "Lucida Handwriting", "Courier New";
-    text-shadow: 1px 1px 2px blue;
+    text-shadow: 1px 1px 2px pink;
     display: flex;
     justify-content: center;
   }
+  ul{
+    font-family: "Monaco";
+  }
   h4{
-    text-shadow: 1px 1px 2px blue;
+    text-shadow: 1px 1px 2px pink;
+    font-family: "Monaco";
   }
   .main {
       display: flex;
